@@ -1,0 +1,1 @@
+45 3 * * * python3 /app/cloudflare_dns.py >> /app/logs/cron.log 2>&1

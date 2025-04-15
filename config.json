@@ -1,0 +1,6 @@
+[
+    { "type": "CNAME", "name": "plex", "content": "home.example.com", "proxied": true },
+    { "type": "TXT", "name": "acme-challenge", "content": "validation-token", "ttl": 120 },
+    { "type": "A", "name": "vpn", "content": "203.0.113.25", "proxied": false }
+  ]
+  
